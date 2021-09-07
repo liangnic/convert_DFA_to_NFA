@@ -1,3 +1,3 @@
-# convert_DFA_to_NFA
+### convert_DFA_to_NFA
 
-## USYD COMP2022 ASM3 🎉
+USYD COMP2022 ASM3 🎉
